@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Slackside One', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(90deg, #FFE7D1 0%, #FFF2E6 100%);  
+    padding: 0 1rem;
+}
+header img {
+    display: block;
+    margin: 1rem auto;
+}
+
+header nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
