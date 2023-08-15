@@ -1,0 +1,41 @@
+.cabecalho-imagem{
+    width: 7%;
+}
+.cabecalho {
+    background-color: #F3A9C0;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1px 0;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+  
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+}
+.escola-div-conteudo{
+    width: 60%;
+}
+.escola-titulo{
+    padding: 30px 0;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
